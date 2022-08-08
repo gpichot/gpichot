@@ -25,4 +25,5 @@
 </a>
 
 <br />
+
 [![Gabriel Pichot StackOverflow](https://github-readme-stackoverflow.vercel.app/?userID=2105670&layout=compact)](https://stackoverflow.com/users/2105670/gabriel-pichot)
