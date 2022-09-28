@@ -1,7 +1,5 @@
 ## Hi there 👋
 
----
-
 - 🔭 I’m currently working on building awesome apps with
   [TypeScript](https://www.typescriptlang.org/), [React](https://reactjs.org)
   and [NodeJS](https://nodejs.org).
@@ -14,16 +12,12 @@
 - 📫 Reach up to me at <a
     href="mailto:gabriel@craftvalue.io">gabriel@craftvalue.io</a>.
 
----
-
 ## 📚 Latest blog posts
 
 <!-- BLOG-POST-LIST:START -->
 - [Understanding React Hooks: JavaScript Fundamentals](https://www.craftvalue.io/blog/understanding-react-hooks-javascript-fundamentals)
 - [All you need to know about React.useState](https://www.craftvalue.io/blog/all-you-need-to-know-about-react-usestate)
 <!-- BLOG-POST-LIST:END -->
-
----
 
 ![](https://komarev.com/ghpvc/?username=gpichot&color=blueviolet)
 <a href="https://www.linkedin.com/in/gabrielpichot/">
