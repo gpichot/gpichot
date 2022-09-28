@@ -1,4 +1,4 @@
-### Hi there 👋
+## Hi there 👋
 
 ---
 
@@ -13,6 +13,13 @@
   development and audits.
 - 📫 Reach up to me at <a
     href="mailto:gabriel@craftvalue.io">gabriel@craftvalue.io</a>.
+
+---
+
+## 📚 Latest blog posts
+
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
 
 ---
 
