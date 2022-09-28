@@ -19,6 +19,8 @@
 ## 📚 Latest blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Understanding React Hooks: JavaScript Fundamentals](https://www.craftvalue.io/blog/understanding-react-hooks-javascript-fundamentals)
+- [All you need to know about React.useState](https://www.craftvalue.io/blog/all-you-need-to-know-about-react-usestate)
 <!-- BLOG-POST-LIST:END -->
 
 ---
