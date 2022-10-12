@@ -17,3 +17,4 @@ jobs:
           comment_tag_name: ""
           commit_message: "Updated README with the latest articles"
           feed_list: "https://www.craftvalue.io/rss.xml"
+          template: "$newline- [$title]($url?utm_campaign=github-profile&utm_source=github&utm_medium=posts-list)"
