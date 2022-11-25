@@ -15,6 +15,7 @@
 ## 📚 Latest blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [The Children Prop Pattern in React](https://www.craftvalue.io/blog/react-children-prop-pattern?utm_campaign=github-profile&utm_source=github&utm_medium=posts-list)
 - [Understanding React Hooks: JavaScript Fundamentals](https://www.craftvalue.io/blog/understanding-react-hooks-javascript-fundamentals?utm_campaign=github-profile&utm_source=github&utm_medium=posts-list)
 - [All you need to know about React.useState](https://www.craftvalue.io/blog/all-you-need-to-know-about-react-usestate?utm_campaign=github-profile&utm_source=github&utm_medium=posts-list)<!-- BLOG-POST-LIST:END -->
 
